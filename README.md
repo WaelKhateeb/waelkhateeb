@@ -93,7 +93,7 @@ Designed and taught Python programming, data structures, algorithms, and computa
 * Wael El Khateeb, Chanaka Kottegoda, Chunhua Shan. **Complex dynamics and pattern formation in a diffusive epidemic model with an infection-dependent recovery rate.** *Mathematical Biosciences*. DOI: 10.1016/j.mbs.2025.109602
 * Wael El Khateeb, Guihong Fan, Chunhua Shan, Hao Wang. **Global Hopf bifurcation and connected components in a delayed predator-prey model.** *European Journal of Applied Mathematics*. DOI: 10.1017/S0956792526100370
 * Wael El Khateeb, William Kalies, Bernardo Rivas. **Employing physics-informed neural network structures on gene regulatory networks.** Manuscript in preparation.
-* Brendan Shrader, Wael El Khateeb, Chunhua Shan, Chadi Saad-Roy, Zhisheng Shuai, P. van den Driessche. **Epidemiological impacts of density dependent incidence functions and post-infection mortality.** Submitted.
+* Brendan Shrader, Wael El Khateeb, Chunhua Shan, Chadi Saad-Roy, Zhisheng Shuai, P. van den Driessche. **Epidemiological impacts of density dependent incidence functions and post-infection mortality.** To be submitted soon.
 * Wael El Khateeb, Chunhua Shan. **High-codimension bifurcation in a predator-prey model with harvesting.** Finalized for submission.
 
 ---
